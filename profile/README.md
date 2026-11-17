@@ -1,6 +1,7 @@
 # Agenthon 2026 · 교사 해커톤
 
-선생님들이 말로 요청하면, 학교 DGX에서 도는 AI 에이전트 넷이 차례로 일해 웹앱을 만듭니다.
+선생님들이 말로 요청하면 AI 에이전트 넷이 차례로 일해 웹앱을 만듭니다.
+새 앱의 첫 코드는 Azure OpenAI(gpt-5.4-mini)가 쓰고, 요청 정리·고쳐 쓰기·수리·점검은 학교 DGX Spark에서 합니다.
 
 **Design Agent** → **Coding Agent** → **QA Agent** → **Repair Agent**
 
@@ -12,4 +13,4 @@
 
 아직 없습니다.
 
-_On-premise AI agents (DGX Spark) · GitHub · Azure Static Website_
+_AI agents on the school's DGX Spark and Azure OpenAI (gpt-5.4-mini) · GitHub · Azure Static Website_
